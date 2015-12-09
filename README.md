@@ -1,1 +1,1 @@
-# wp-2-click-socialmedia-buttons
+# WordPress Plugin 2-Click Socialmedia Buttons
