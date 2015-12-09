@@ -1,0 +1,5 @@
+Xing - XING-contenttabreceiver/1.0
+Facebook - facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Pinterest - Pinterest/0.1 +http://pinterest.com/
+Google+ - Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0
+Twitter - Twitterbot/1.0

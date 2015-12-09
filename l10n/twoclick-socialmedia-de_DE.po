@@ -1,0 +1,684 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 2 Click Social Media Buttons v1.6.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-17 10:23:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: libs/class-twoclick-backend.php:874
+#@ twoclick-socialmedia
+msgid "Position"
+msgstr "Position"
+
+#: libs/class-twoclick-backend.php:878
+#@ twoclick-socialmedia
+msgid "Before the Post"
+msgstr "Vor dem Artikel"
+
+#: libs/class-twoclick-backend.php:879
+#@ twoclick-socialmedia
+msgid "After the Post"
+msgstr "Nach dem Artikel"
+
+#: libs/class-twoclick-backend.php:880
+#@ twoclick-socialmedia
+msgid "Manuall (Shortcode)"
+msgstr "Manuell (Shortcode)"
+
+#: libs/class-twoclick-backend.php:1082
+#@ twoclick-socialmedia
+msgid "Please use 'yourname', <strong>not</strong> 'RT @yourname'."
+msgstr "Bitte benutze das Format 'deinname', <strong>nicht</strong> 'RT @deinname'."
+
+#: libs/class-twoclick-backend.php:905
+#@ twoclick-socialmedia
+msgid "Display on CMS-Pages"
+msgstr "Auch auf CMS-Seiten anzeigen"
+
+#: libs/class-twoclick-backend.php:959
+#@ twoclick-socialmedia
+msgid "On singleposts the buttons will be shown by default. There is no option needed."
+msgstr "In den Einzelartikeln wird das Plugin per default eingebunden. Dies bedarf keiner Option."
+
+#: libs/class-twoclick-backend.php:732
+#@ twoclick-socialmedia
+msgid "Settings for 2-Click Social Media Buttons"
+msgstr "Einstellungen für 2-Click Social Media Buttons"
+
+#: libs/class-twoclick-backend.php:848
+#@ twoclick-socialmedia
+msgid "Display"
+msgstr "Anzeige"
+
+#: libs/class-twoclick-backend.php:1204
+#@ twoclick-socialmedia
+msgid "Infobutton:"
+msgstr "Infobutton:"
+
+#: libs/class-twoclick-backend.php:1214
+#@ twoclick-socialmedia
+msgid "Permaoption:"
+msgstr "Permaoption:"
+
+#: libs/class-twoclick-backend.php:1224
+#@ twoclick-socialmedia
+msgid "Infolink:"
+msgstr "Infolink:"
+
+#: libs/class-twoclick-backend.php:1228
+#: libs/class-twoclick-backend.php:1273
+#@ twoclick-socialmedia
+msgid "Links starting with http://"
+msgstr "Links beginnen im Übrigen mit http://"
+
+#: libs/class-twoclick-backend.php:659
+#: libs/class-twoclick-backend.php:1074
+#@ twoclick-socialmedia
+msgid "Twitter"
+msgstr "Twitter"
+
+#: libs/class-twoclick-backend.php:661
+#: libs/class-twoclick-backend.php:1134
+#@ twoclick-socialmedia
+msgid "Flattr"
+msgstr "Flattr"
+
+#: libs/class-twoclick-backend.php:1136
+#@ twoclick-socialmedia
+msgid "User:"
+msgstr "Nutzer:"
+
+#: libs/class-twoclick-backend.php:1088
+#@ twoclick-socialmedia
+msgid "Tweettext:"
+msgstr "Tweettext:"
+
+#: libs/class-twoclick-backend.php:1093
+#@ twoclick-socialmedia
+msgid "Posttitle &raquo; Blogtitle"
+msgstr "Posttitel &raquo; Blogtitel"
+
+#: libs/class-twoclick-backend.php:1094
+#: libs/class-twoclick-backend.php:1156
+#@ twoclick-socialmedia
+msgid "Posttitle"
+msgstr "Posttitel"
+
+#: libs/class-twoclick-backend.php:1096
+#@ twoclick-socialmedia
+msgid "The title of the page the button is on."
+msgstr "Der Titel der Seite auf der der Button eingebunden ist."
+
+#: libs/class-twoclick-backend.php:1102
+#@ twoclick-socialmedia
+msgid "This is the text that people will include in their Tweet when they share from your website."
+msgstr "Dies ist der Text, der automatisch in den Tweet mit eingesetzt wird."
+
+#: libs/class-twoclick-backend.php:1108
+#@ twoclick-socialmedia
+msgid "Custom tweettext missing !!!"
+msgstr "Eigener Tweettext nicht angegeben !!!"
+
+#: libs/class-twoclick-backend.php:1111
+#@ twoclick-socialmedia
+msgid "Please enter a custom tweettext. Otherweise the plugin will use default settings for tweetext as &quot;<strong>Posttitle &raquo; Blogtitle</strong>&quot;"
+msgstr "Bitte gib einen eigenen Tweettext an. Andernfalls wird das Plugin die Standardeinstellung <strong>Posttitel » Blogtitel</strong> nutzen."
+
+#: libs/class-twoclick-backend.php:1120
+#@ twoclick-socialmedia
+msgid "Use tags as #hashtags"
+msgstr "Artikeltags als #Hashtags nutzen."
+
+#: libs/class-twoclick-backend.php:658
+#: libs/class-twoclick-backend.php:1051
+#@ twoclick-socialmedia
+msgid "Facebook"
+msgstr "Facebook"
+
+#: libs/class-twoclick-backend.php:1055
+#@ twoclick-socialmedia
+msgid "Button:"
+msgstr "Button:"
+
+#: libs/class-twoclick-backend.php:1057
+#@ twoclick-socialmedia
+msgid "Recommend"
+msgstr "Empfehlen"
+
+#: libs/class-twoclick-backend.php:1058
+#@ twoclick-socialmedia
+msgid "Like"
+msgstr "Gefällt mir"
+
+#: libs/class-twoclick-backend.php:881
+#@ twoclick-socialmedia
+msgid "Manuall (Template)"
+msgstr "Manuell (Template)"
+
+#: libs/class-twoclick-backend.php:1268
+#@ twoclick-socialmedia
+msgid "Link:"
+msgstr "URL:"
+
+#: libs/class-twoclick-backend.php:909
+#@ twoclick-socialmedia
+msgid "Display on Index"
+msgstr "Auch im Artikelindex anzeigen"
+
+#: libs/class-twoclick-backend.php:947
+#@ twoclick-socialmedia
+msgid "Display on Search-Pages"
+msgstr "Auch in Suchergebnissen anzeigen"
+
+#: libs/class-twoclick-backend.php:934
+#: libs/class-twoclick-backend.php:938
+#: libs/class-twoclick-backend.php:942
+#: libs/class-twoclick-backend.php:947
+#: libs/class-twoclick-backend.php:951
+#: libs/class-twoclick-backend.php:955
+#@ twoclick-socialmedia
+msgid "Note: Not every theme supports this option."
+msgstr "Hinweis: Nicht jedes Theme unterstützt diese Option."
+
+#: libs/class-twoclick-backend.php:951
+#@ twoclick-socialmedia
+msgid "Display on Category-Archive"
+msgstr "Auch in Kategoriearchiven anzeigen"
+
+#: libs/class-twoclick-backend.php:955
+#@ twoclick-socialmedia
+msgid "Display on Tag-Archive"
+msgstr "Auch in Tagarchiven anzeigen"
+
+#: libs/class-twoclick-backend.php:934
+#@ twoclick-socialmedia
+msgid "Display on Yearly Archives"
+msgstr "Auch im Jahresarchiv anzeigen"
+
+#: libs/class-twoclick-backend.php:938
+#@ twoclick-socialmedia
+msgid "Display on Monthly Archives"
+msgstr "Auch im Monatsarchiv anzeigen"
+
+#: libs/class-twoclick-backend.php:942
+#@ twoclick-socialmedia
+msgid "Display on Daily Archives"
+msgstr "Auch im Tagesarchiv anzeigen"
+
+#: libs/class-twoclick-backend.php:1272
+#@ twoclick-socialmedia
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: libs/class-twoclick-backend.php:230
+#@ twoclick-socialmedia
+msgid "Use This Image"
+msgstr "Dieses Bild nutzen"
+
+#: libs/class-twoclick-backend.php:1287
+#@ twoclick-socialmedia
+msgid "This image is taken for Facebook, Google+ and Pinterest if there is no postthumbnail or other image inside the article or page. If empty, no image will be used for and the pinterest-button will be disabled for this article."
+msgstr "Dieses Bild wird für Facebook, Google+ und Pinterest hergenommen, falls im Artikel oder der Seite kein Artikelbild oder sonstiges Bild im Artikel gefunden wurde. Bleibt diese Zeile leer, wird kein Bild verwendet und der Pinterest-Button wird in diesem Artikel nicht angezeigt."
+
+#: libs/class-twoclick-backend.php:663
+#: libs/class-twoclick-backend.php:1149
+#@ twoclick-socialmedia
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: libs/class-twoclick-backend.php:1152
+#@ twoclick-socialmedia
+msgid "Description:"
+msgstr "Beschreibung:"
+
+#: libs/class-twoclick-backend.php:1157
+#@ twoclick-socialmedia
+msgid "Posttitle and #Tags"
+msgstr "Posttitel und #Tags"
+
+#: libs/class-twoclick-backend.php:1158
+#@ twoclick-socialmedia
+msgid "Posttitle &raquo; Excerpt"
+msgstr "Posttitel &raquo; Auszug"
+
+#: libs/class-twoclick-backend.php:1160
+#@ twoclick-socialmedia
+msgid "The description wich is send to Pinterest."
+msgstr "Diese Beschreibung wird zu Pinterest gesendet."
+
+#: libs/class-twoclick-backend.php:719
+#@ twoclick-socialmedia
+msgid "General"
+msgstr "Generell"
+
+#: libs/class-twoclick-backend.php:720
+#@ twoclick-socialmedia
+msgid "Buttons"
+msgstr "Buttons"
+
+#: libs/class-twoclick-backend.php:721
+#: libs/class-twoclick-backend.php:1183
+#@ twoclick-socialmedia
+msgid "Infotext"
+msgstr "Infotexte"
+
+#: libs/class-twoclick-backend.php:722
+#@ twoclick-socialmedia
+msgid "Other"
+msgstr "Sonstiges"
+
+#: libs/class-twoclick-backend.php:852
+#@ twoclick-socialmedia
+msgid "Network"
+msgstr "Netzwerk"
+
+#: libs/class-twoclick-backend.php:893
+#@ twoclick-socialmedia
+msgid "Exclude Pages:"
+msgstr "<strong>NICHT</strong> auf diesen Seiten"
+
+#: libs/class-twoclick-backend.php:1264
+#@ twoclick-socialmedia
+msgid "Postthumbnail <em>(optional)</em>"
+msgstr "Artikelbild <em>(Optional)</em>"
+
+#: libs/class-twoclick-backend.php:1480
+#@ twoclick-socialmedia
+msgid "No items."
+msgstr "Keine Seiten."
+
+#: libs/class-twoclick-backend.php:1387
+#@ twoclick-socialmedia
+msgid "OpenGraph-Tags <em>(optional)</em>"
+msgstr "OpenGraph-Tags <em>(Optional)</em>"
+
+#: libs/class-twoclick-backend.php:1391
+#@ twoclick-socialmedia
+msgid "Disable:"
+msgstr "Deaktivieren:"
+
+#: libs/class-twoclick-backend.php:1402
+#@ twoclick-socialmedia
+msgid "Some other plugins or themes may have enabled the OpenGraph-Metatags by default. Please make sure this is the only plugin to add these tags to your website. Otherwise disble the OpenGraph-Metatags here."
+msgstr "Einige Plugins oder Themes erstellen die OpenGraph-Metatags von sich aus. Sollten ein solches Plugin oder Theme installiert sein, bitte hier die Funktion abschalten, damit diese Tags nicht mehrfach generiert werden."
+
+#: libs/class-twoclick-backend.php:1400
+#@ twoclick-socialmedia
+msgid "The OpenGraph-Metatags are necessary for some networks, such as Facebook, Google+, Xing and Pinterest."
+msgstr "Die OpenGraph-Metatags sind für einige Netzwerke notwendig. Dazu gehören Facebook, Google+, Xing und Pinterest."
+
+#: libs/class-twoclick-backend.php:1437
+#@ twoclick-socialmedia
+msgid "Support"
+msgstr "Support"
+
+#: libs/class-twoclick-backend.php:1443
+#, php-format
+#@ twoclick-socialmedia
+msgid "If you have any questions about the settings or the plugin, feel free to %1$s."
+msgstr "Bei Fragen rund um das Plugin stehe ich gerne zur Verfügung. Dazu musst Du nichts anderes tun, als %1$s."
+
+#: libs/class-twoclick-backend.php:1444
+#@ twoclick-socialmedia
+msgid "leave me a comment"
+msgstr "mir einen Kommentar zu hinterlassen"
+
+#: libs/class-twoclick-backend.php:726
+#@ twoclick-socialmedia
+msgid "Donate"
+msgstr "Spenden"
+
+#: libs/class-twoclick-backend.php:724
+#@ twoclick-socialmedia
+msgid "F.A.Q."
+msgstr "F.A.Q."
+
+#: libs/class-twoclick-backend.php:725
+#@ twoclick-socialmedia
+msgid "Changelog"
+msgstr "Changelog"
+
+#: libs/class-twoclick-backend.php:926
+#@ twoclick-socialmedia
+msgid "Display Sidebar-Widget"
+msgstr "Auch als Sidebar-Widget anzeigen"
+
+#: libs/class-twoclick-backend.php:926
+#@ twoclick-socialmedia
+msgid "Note: Only in single posts or pages."
+msgstr "Hinweis: Nur in Einzalartikeln und -seiten."
+
+#: libs/class-twoclick-backend.php:660
+#@ twoclick-socialmedia
+msgid "Google+"
+msgstr "Google+"
+
+#: libs/class-twoclick-backend.php:662
+#@ twoclick-socialmedia
+msgid "Xing"
+msgstr "Xing"
+
+#: libs/class-twoclick-backend.php:862
+#, php-format
+#@ twoclick-socialmedia
+msgid "Enable %1$s"
+msgstr "%1$s anzeigen"
+
+#: libs/class-twoclick-backend.php:864
+#, php-format
+#@ twoclick-socialmedia
+msgid "Option for permanent activation for %1$s"
+msgstr "Biete Permanente Aktivierung von %1$s an"
+
+#: libs/class-twoclick-backend.php:821
+#@ twoclick-socialmedia
+msgid "Reset Options"
+msgstr "Einstellungen zurücksetzen"
+
+#: libs/class-twoclick-backend.php:823
+#@ twoclick-socialmedia
+msgid "&quot;Do you really want to reset your configuration?&quot;"
+msgstr "&quot;Sollen wirklich alle Einstellungen zurückgesetzt werden?&quot;"
+
+#: libs/class-twoclick-backend.php:1557
+#@ twoclick-socialmedia
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: libs/class-twoclick-backend.php:918
+#@ twoclick-socialmedia
+msgid "Display on Password Protected Posts"
+msgstr "Auch in passwortgeschützten Artikeln anzeigen"
+
+#: libs/class-twoclick-backend.php:914
+#@ twoclick-socialmedia
+msgid "Display on Private Posts"
+msgstr "Auch in privaten Artikeln anzeigen"
+
+#: libs/class-twoclick-backend.php:1235
+#@ twoclick-socialmedia
+msgid "Introtext:"
+msgstr "Introtext:"
+
+#: libs/class-twoclick-backend.php:1239
+#@ twoclick-socialmedia
+msgid "This \"Introtext\" will be displayed before the buttons. You can use some HTML here. Paragraphs will be included automaticly."
+msgstr "Dieser &quot;Introtext&quot; wird vor den Buttons angezeigt. Du kannst hier HTML verwenden. Absätze werden automatisch erstellt."
+
+#: libs/class-twoclick-backend.php:1597
+#@ twoclick-socialmedia
+msgid "What's new:"
+msgstr "Was ist neu:"
+
+#: libs/class-twoclick-backend.php:1416
+#@ twoclick-socialmedia
+msgid "Custom CSS (optional)"
+msgstr "Eigenes CSS (optional)"
+
+#: libs/class-twoclick-backend.php:1420
+#@ twoclick-socialmedia
+msgid "If you want to customize the output of your buttons, you can enter some CSS-rules here."
+msgstr "Wenn Du die Anzeige der Buttons im Artikel für Deine Seite anpassen möchtest, hast Du hier die Möglichkeit Dein eigenes CSS zu hinterlegen."
+
+#: libs/class-twoclick-backend-debug.php:81
+#@ twoclick-socialmedia
+msgid "What the hell is this?"
+msgstr "Was ist das hier?"
+
+#: libs/class-twoclick-backend-debug.php:84
+#@ twoclick-socialmedia
+msgid "If you need some help with this plugin, in case something doesn't work as expected, I need some informations from you."
+msgstr "Falls Du Hilfe mit dem Plugin brauchst, weil etwas nicht so funktioniert wie erwartet, brauche ich eventuell ein paar Informationen von Dir. Diese findest Du hier."
+
+#: libs/class-twoclick-backend-debug.php:114
+#@ twoclick-socialmedia
+msgid "Your WordPress"
+msgstr "Dein WordPress"
+
+#: libs/class-twoclick-backend-debug.php:117
+#@ twoclick-socialmedia
+msgid "Version"
+msgstr "Version"
+
+#: libs/class-twoclick-backend-debug.php:118
+#: libs/class-twoclick-backend-debug.php:243
+#@ twoclick-socialmedia
+msgid "URL"
+msgstr "URL"
+
+#: libs/class-twoclick-backend-debug.php:183
+#@ twoclick-socialmedia
+msgid "Your active theme"
+msgstr "Dein aktives Theme"
+
+#: libs/class-twoclick-backend-debug.php:225
+#@ twoclick-socialmedia
+msgid "Your installed plugins"
+msgstr "Deine installierten Plugins"
+
+#: libs/class-twoclick-backend-debug.php:237
+#@ twoclick-socialmedia
+msgid "activated"
+msgstr "aktiviert"
+
+#: libs/class-twoclick-backend-debug.php:237
+#@ twoclick-socialmedia
+msgid "deactivated"
+msgstr "deaktiviert"
+
+#: libs/class-twoclick-backend-debug.php:282
+#@ twoclick-socialmedia
+msgid "Userdata"
+msgstr "Nutzerdaten"
+
+#: libs/class-twoclick-backend-debug.php:315
+#@ twoclick-socialmedia
+msgid "Serverdata"
+msgstr "Serverdaten"
+
+#: libs/class-twoclick-backend.php:727
+#@ twoclick-socialmedia
+msgid "Debug"
+msgstr "Debug"
+
+#: libs/class-twoclick-backend.php:899
+#@ twoclick-socialmedia
+msgid "Posts and Pages Handling"
+msgstr "Artikel und Seiten"
+
+#: libs/class-twoclick-backend.php:972
+#@ twoclick-socialmedia
+msgid "Custom Post Type Handling"
+msgstr "Custom Post Types"
+
+#: libs/class-twoclick-backend.php:981
+#, php-format
+#@ twoclick-socialmedia
+msgid "Exclude on Custom Post Type \"%1$s\""
+msgstr "Nicht im Custom Post Type &quot;%1$s&quot; anzeigen"
+
+#: libs/class-twoclick-backend-debug.php:234
+#@ twoclick-socialmedia
+msgid "Plugin"
+msgstr "Plugin"
+
+#: libs/class-twoclick-backend-debug.php:237
+#@ twoclick-socialmedia
+msgid "Status"
+msgstr "Status"
+
+#: libs/class-twoclick-backend-debug.php:240
+#@ twoclick-socialmedia
+msgid "Author"
+msgstr "Autor"
+
+#: libs/class-twoclick-backend-debug.php:246
+#@ twoclick-socialmedia
+msgid "Path"
+msgstr "Pfad"
+
+#. translators: plugin header field 'Name'
+#: 2-click-socialmedia-buttons.php:0
+#@ twoclick-socialmedia
+msgid "2 Click Social Media Buttons"
+msgstr "2 Click Social Media Buttons"
+
+#. translators: plugin header field 'PluginURI'
+#: 2-click-socialmedia-buttons.php:0
+#@ twoclick-socialmedia
+msgid "http://ppfeufer.de/wordpress-plugin/2-click-social-media-buttons/"
+msgstr "http://ppfeufer.de/wordpress-plugin/2-click-social-media-buttons/"
+
+#. translators: plugin header field 'Author'
+#: 2-click-socialmedia-buttons.php:0
+#@ twoclick-socialmedia
+msgid "H.-Peter Pfeufer"
+msgstr "H.-Peter Pfeufer"
+
+#. translators: plugin header field 'AuthorURI'
+#: 2-click-socialmedia-buttons.php:0
+#@ twoclick-socialmedia
+msgid "http://ppfeufer.de"
+msgstr "http://ppfeufer.de"
+
+#. translators: plugin header field 'Description'
+#: 2-click-socialmedia-buttons.php:0
+#@ twoclick-socialmedia
+msgid "Adding buttons for Facebook (Like/Recommend), Twitter, Google+, Flattr, Xing, Pinteres, t3n and LinkedIn to your WordPress-Website in respect with the german privacy law."
+msgstr "Fügt die Buttons für Facebook (Gefällt mir/Empfehlen), Twitter, Google+, Flattr, Xing, Pinteres, t3n und LinkedIn dem deutschen Datenschutz entsprechend in euer WordPress ein."
+
+#: libs/class-twoclick-backend.php:1355
+#@ twoclick-socialmedia
+msgid "Campaign-Tracking <em>(Piwik / Google Analytics)</em>"
+msgstr "Kampagnen Verfolgung <em>(Piwik / Google Analytics)</em>"
+
+#: libs/class-twoclick-backend.php:1305
+#: libs/class-twoclick-backend.php:1332
+#: libs/class-twoclick-backend.php:1359
+#@ twoclick-socialmedia
+msgid "Enable:"
+msgstr "Aktivieren:"
+
+#: libs/class-twoclick-backend.php:1369
+#, php-format
+#@ twoclick-socialmedia
+msgid "With this option enabled, an url-parameter is set to track your article as a campaign for each button. Supported tracking tools are %1$s and %2$s. The following networks support this tracking: Twitter, Google+, Xing"
+msgstr "Mit dieser Option wird an die URL des Artikels ein Parameter angehängt, mit dem die Verfolgung des Artikels als Kampagne möglich ist. Dies ist mit %1$s and %2$s möglich. Unterstützt wird diese Option von Twitter, Google+ und Xing."
+
+#: libs/class-twoclick-backend.php:1328
+#@ twoclick-socialmedia
+msgid "Linkoptions <em>($_GET Handling > http://yourdomain.com/permalink/<strong>?foo=bar</strong>)</em>"
+msgstr "Linkoptionen <em>($_GET Handling > http://deineseite.de/permalink/<strong>?foo=bar</strong>)</em>"
+
+#: libs/class-twoclick-backend.php:1341
+#@ twoclick-socialmedia
+msgid "If you have permalinks with options <em>(?foo=bar for example)</em>, enable this. Note, this can be lead to misbehaviour."
+msgstr "Falls Du Permalinks mit Optionen nutzt <em>(?foo=bar als Beispiel)</em>, aktiviere diese Option. Hinweis: Dies kann zu Fehlverhalten führen. Im Zweifelsfall diese Option deaktiviert lassen."
+
+#: libs/class-twoclick-backend-debug.php:148
+#@ twoclick-socialmedia
+msgid "Pluginoptions"
+msgstr "Pluginoptionen"
+
+#: libs/class-twoclick-backend.php:1301
+#@ twoclick-socialmedia
+msgid "Infobox"
+msgstr "Infobox"
+
+#: libs/class-twoclick-backend.php:1314
+#@ twoclick-socialmedia
+msgid "Activate or deactivate the infobutton."
+msgstr "Hier kann die Infobox aktiviert oder deaktiviert werden."
+
+#. translators: plugin header field 'Version'
+#: 2-click-socialmedia-buttons.php:0
+#@ twoclick-socialmedia
+msgid "1.6.5"
+msgstr ""
+
+#: libs/class-twoclick-backend.php:886
+#@ twoclick-socialmedia
+msgid "If you choose \"Manuall (Shortcode)\", you can use the shortcode <code>[twoclick_buttons]</code> inside your articles."
+msgstr "Ist die Option \\\"Manuell (Shortcode)\\\" gewählt, so können die Buttons mittels des Shortcodes <code>[twoclick_buttons]</code> in den Artikel eingebunden werden."
+
+#: libs/class-twoclick-backend.php:887
+#@ twoclick-socialmedia
+msgid "If you choose \"Manuall (Template)\", you can use the code <code>&lt;?php if(function_exists('\\PPWP\\Plugin\\TwoClickSocialMedia\\get_twoclick_buttons')) {\\PPWP\\Plugin\\TwoClickSocialMedia\\get_twoclick_buttons(get_the_ID());} ?&gt;</code> inside your template. It's using all settings for \"Display\". <em><strong>Note:</strong> It will only work in single post or page templates. Not in any loop.</em>"
+msgstr "Ist die Option \\\"Manuell (Vorlage)\\\" gewählt, so können die Buttons mit dem PHP-Code <code>&lt;?php if(function_exists('\\PPWP\\Plugin\\TwoClickSocialMedia\\get_twoclick_buttons')) {\\PPWP\\Plugin\\TwoClickSocialMedia\\get_twoclick_buttons(get_the_ID());} ?&gt;</code> in das Theme eingebunden werden. Dies berücksichtigt alle Einstellungen, die unter \\\"Anzeige\\\" getätigt wurden. <em><strong>Hinweis:</strong> Dies funktioniert nur bei Einzalartikeln und -seiten, nicht innerhalb des Loops.</em>"
+
+#: libs/class-twoclick-backend.php:1012
+#@ twoclick-socialmedia
+msgid "Language Settings <em>(Failover)</em>"
+msgstr "Spracheinstellungen <em>Wenn nichts anderes hilft</em>"
+
+#: libs/class-twoclick-backend.php:1016
+#@ twoclick-socialmedia
+msgid "Lanuage:"
+msgstr "Sprache:"
+
+#: libs/class-twoclick-backend.php:1019
+#@ twoclick-socialmedia
+msgid "German"
+msgstr "Deutsch"
+
+#: libs/class-twoclick-backend.php:1020
+#@ twoclick-socialmedia
+msgid "Germany (de_DE)"
+msgstr "Deutschland (de_DE)"
+
+#: libs/class-twoclick-backend.php:1021
+#@ twoclick-socialmedia
+msgid "Austria (de_AT)"
+msgstr "Österreich (de_AT)"
+
+#: libs/class-twoclick-backend.php:1022
+#@ twoclick-socialmedia
+msgid "Switzerland (de_CH)"
+msgstr "Schweiz (de_CH)"
+
+#: libs/class-twoclick-backend.php:1025
+#@ twoclick-socialmedia
+msgid "English"
+msgstr "English"
+
+#: libs/class-twoclick-backend.php:1026
+#@ twoclick-socialmedia
+msgid "United Kingdom (en_GB)"
+msgstr "United Kingdom (en_GB)"
+
+#: libs/class-twoclick-backend.php:1027
+#@ twoclick-socialmedia
+msgid "United States (en_US)"
+msgstr "United States (en_US)"
+
+#: libs/class-twoclick-backend.php:1033
+#@ twoclick-socialmedia
+msgid "If you have problems with the active buttons - facebook doens't load - try to set the language manually. If anything works fine, ignore this setting."
+msgstr "Fall es Probleme mit den aktiven Buttons geben sollte - Facebook läd nicht - versuche die Sprache manuell zu setzen. Wenn alles funktioniert, ignoriere diese Einstellung einfach."
+
+#: libs/class-twoclick-backend.php:1036
+#, php-format
+#@ twoclick-socialmedia
+msgid "Your current language <em>(set in your wp_config.php)</em>: %1$s"
+msgstr "Deine aktuell in der wp-config.php gesetzte Sprache: %1$s"
+
+#: libs/class-twoclick-backend.php:1059
+#@ twoclick-socialmedia
+msgid "Share"
+msgstr "Teilen"
+

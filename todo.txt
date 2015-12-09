@@ -1,0 +1,1 @@
+> JS und CSS nur dann laden, wenn die Buttons auch wirklich gebraucht werden. (http://ppfeufer.de/wordpress-plugin/2-click-social-media-buttons/comment-page-14/#comment-34539)

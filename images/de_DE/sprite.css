@@ -1,0 +1,11 @@
+#container li {background: url(de_DE-sprite.png) no-repeat top left;}
+
+.sprite-facebook-dummy-image-like-de_DE{ background-position: 0 0; width: 72px; height: 20px; }
+.sprite-facebook-dummy-image-recommend-de_DE{ background-position: 0 -25px; width: 83px; height: 20px; }
+.sprite-flattr-dummy-image{ background-position: 0 -50px; width: 54px; height: 20px; }
+.sprite-googleplus-dummy-image{ background-position: 0 -75px; width: 32px; height: 20px; }
+.sprite-linkedin-dummy-image{ background-position: 0 -100px; width: 63px; height: 20px; }
+.sprite-pinterest-dummy-image-de_DE{ background-position: 0 -125px; width: 63px; height: 20px; }
+.sprite-t3n-dummy-image{ background-position: 0 -150px; width: 63px; height: 20px; }
+.sprite-twitter-dummy-image-de_DE{ background-position: 0 -175px; width: 63px; height: 20px; }
+.sprite-xing-dummy-image{ background-position: 0 -200px; width: 55px; height: 20px; }
