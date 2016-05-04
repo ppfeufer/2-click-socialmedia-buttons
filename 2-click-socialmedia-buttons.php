@@ -2,6 +2,7 @@
 /**
  * Plugin Name: 2 Click Social Media Buttons
  * Plugin URI: http://ppfeufer.de/wordpress-plugin/2-click-social-media-buttons/
+ * Git URI: https://github.com/ppfeufer/2-click-socialmedia-buttons
  * Description: Adding buttons for Facebook (Like/Recommend), Twitter, Google+, Flattr, Xing, Pinteres, t3n and LinkedIn to your WordPress-Website in respect with the german privacy law.
  * Version: 1.6.5
  * Author: H.-Peter Pfeufer
