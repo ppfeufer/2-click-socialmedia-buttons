@@ -23,7 +23,7 @@ use PPWP\Plugin\TwoClickSocialMedia\Frontend\Twoclick_Social_Media_Buttons_Front
  *
  * @package 2 Click Social Media Buttons
  */
-if(!function_exists('add_action')) {
+if(!class_exists('WP')) {
 	header('Status: 403 Forbidden');
 	header('HTTP/1.1 403 Forbidden');
 
