@@ -63,9 +63,19 @@ if(version_compare($GLOBALS['wp_version'], TWOCLICK_WORDPRESS_REQUIERED, '<')) {
  * @package 2 Click Social Media Buttons
  */
 if(is_admin()) {
+	/**
+	 * Loading the backend stuff
+	 */
 	require_once(TWOCLICK_PLUGIN_DIR . 'libs/class-twoclick-backend.php');
-
 	new Twoclick_Social_Media_Buttons_Backend();
+	
+	/**
+	 * Github Update Parser
+	 * 
+	 * @since 1.6.5
+	 */
+	require_once(TWOCLICK_PLUGIN_DIR . 'libs/class-github-updater.php');
+	new Twoclick_Social_Media_Buttons_GitHub_Plugin_Updater(__FILE__, 'ppfeufer', '2-click-socialmedia-buttons');
 } // END if(is_admin())
 
 /**
