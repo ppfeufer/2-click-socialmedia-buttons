@@ -100,7 +100,7 @@ if(!is_admin()) {
 	 * Bindet die Buttons via Funktionsaufruf direkt im Template ein.
 	 *
 	 * Einbindung:
-	 * 		<?php if(function_exists('get_twoclick_buttons')) {get_twoclick_buttons(get_the_ID());} ?>
+	 * 		<?php if(function_exists('\PPWP\Plugin\TwoClickSocialMedia\get_twoclick_buttons')) {\PPWP\Plugin\TwoClickSocialMedia\get_twoclick_buttons(get_the_ID());} ?>
 	 *
 	 * @since 0.18
 	 * @author ppfeufer
