@@ -581,7 +581,8 @@ class Twoclick_Social_Media_Buttons_Github_Parsedown {
 		}
 
 		/* close */
-		if(preg_match('/(.*?)<\/'.$Block['name'].'>[ ]*$/i', $Line['text'], $matches)) {
+//		if(preg_match('/(.*?)<\/'.$Block['name'].'>[ ]*$/i', $Line['text'], $matches)) {
+		if(preg_match('/(.*?)<\/'.$Block['name'].'>[ ]*$/i', $Line['text'])) {
 			if($Block['depth'] > 0) {
 				$Block['depth'] --;
 			} else {
